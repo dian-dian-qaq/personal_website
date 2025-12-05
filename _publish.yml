@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 3813d903-8039-41f9-9a42-13311f11c3cb
+      url: 'https://diandianshi.netlify.app'
