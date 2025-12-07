@@ -7,15 +7,23 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: projects.qmd
+        text: Projects
+      - href: course.qmd
+        text: Courses
+  page-footer:
+    right: "&copy; 2025, Diandian Shi"
+  
 format:
-  html:
+  html: 
     theme:
       - cosmo
       - brand
     css: styles.css
     toc: true
 
+execute:
+  freeze: auto
 
 
+  

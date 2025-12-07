@@ -1,16 +1,100 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "course.html",
+    "href": "course.html",
+    "title": "Course",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "STATS 20 Introduction to Statistical Programming with R\nSTATS 100A Introduction to Probability\nMATH 170S Introduction to Probability and Statistics 2\nSTATS 101A Introduction to Data Analysis and Regression\nSTATS 101B Introduction to Design and Analysis of Experiment\nSTATS 101C Introduction to Statistical Models and Data Mining\nSTATS 102A Introduction to Computational Statistics with R\nSTATS 102C Introduction to Monte Carlo Methods\nSTATS 140XP Practice of Statistics Consulting\nSTATS C183 Statistical Models in Finance"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "",
+    "section": "",
+    "text": "Project 1\n\n\nTravel mobility throughout the COVID-19 pandemic\n\n\nWhat explains the variation in travel frequency and distance across California counties during the COVID-19 pandemic, and how is this variation related to political ideology…\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\nAn Investigation of Debt Delinquency Across the United States\n\n\nHow do childhood socioeconomic environments impact adult debt delinquency?\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "",
+    "section": "",
+    "text": "Here is my project 1"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "",
+    "section": "Project 2",
+    "text": "Project 2\nHere is my project 2"
+  },
+  {
+    "objectID": "projects/project2.html",
+    "href": "projects/project2.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "Debt delinquency can have drastic effects on the well being of an individual, leading to consequences such as credit score reduction, foreclosure, repossession, account closure, lawsuits, physical health detriments, and even higher crime rates. Thus, we will explore the relationships between debt delinquency rate and factors such as parental income group to better understand the root causes and underlying patterns that lead to higher delinquency rates among the United States population. In this study, we examine how debt delinquency rates vary within socioeconomic and demographic characteristics, with particular attention to childhood family income.\nThrough identifying underlying patterns and potential structural dividers of debt delinquency, this study aims to provide insights that may inform policymakers, financial institutions and community organizations. Ultimately, this study hopes that these findings will support the development of more equitable credit practices and interventions that enhance both the financial stability and overall well-being of individuals.\nThis study is a statistics 140XP final project."
+  },
+  {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "The COVID-19 pandemic dramatically impacted how people moved through the world, especially in response to case surges, government mandates, and public messaging. This project focuses on travel mobility within California, analyzing county-level data to understand how political and psychological influences shaped changes in travel distance and frequency throughout the pandemic.\nBy analyzing mobility patterns across California counties during the COVID-19 pandemic, this project sheds light on how people responded to external pressures, such as political messaging, public health mandates, and psychological stress. These insights can help policymakers, public health officials, and researchers better understand and respond to human behavior during future crises.\nThis project is a website created for Digital Humanities 101.\n\n\n\nWebsite Image\n\n\nVisit the website→"
+  },
+  {
+    "objectID": "project1.html",
+    "href": "project1.html",
+    "title": "Courses",
+    "section": "",
+    "text": "A list of Courses"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal website",
+    "title": "Diandian Shi",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4\n\n\n\n34-13 + 245\n\n[1] 266\n\nprint(\"omg\")\n\n[1] \"omg\""
+    "text": "Diandian Shi is currently a fourth-year statistics student at UCLA, passionate about building data-driven solutions at the intersection of analytics, technology, and social sciences. My recent work includes predictive modeling for public health and exploratory analyses of economic mobility.\nDOWNLOAD CV"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Diandian Shi",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.A in Statistics and Data Science | June 2026\nMinor in Visual and Performing Arts Education (VAPAE)"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Diandian Shi",
+    "section": "Experience",
+    "text": "Experience\nLunapse | Product Manager Intern | June 2024 - Jan 2025\nDiablo Valley College | Mathematics and Statistics Tutor | June 2023 - June 2024"
+  },
+  {
+    "objectID": "projects/project1.html#project-overview",
+    "href": "projects/project1.html#project-overview",
+    "title": "Project 1",
+    "section": "",
+    "text": "The COVID-19 pandemic dramatically impacted how people moved through the world, especially in response to case surges, government mandates, and public messaging. This project focuses on travel mobility within California, analyzing county-level data to understand how political and psychological influences shaped changes in travel distance and frequency throughout the pandemic.\nBy analyzing mobility patterns across California counties during the COVID-19 pandemic, this project sheds light on how people responded to external pressures, such as political messaging, public health mandates, and psychological stress. These insights can help policymakers, public health officials, and researchers better understand and respond to human behavior during future crises.\nThis project is a website created for Digital Humanities 101.\n\n\n\nWebsite Image\n\n\nVisit the website→"
+  },
+  {
+    "objectID": "projects/project2.html#project-overview",
+    "href": "projects/project2.html#project-overview",
+    "title": "Project 2",
+    "section": "",
+    "text": "Debt delinquency can have drastic effects on the well being of an individual, leading to consequences such as credit score reduction, foreclosure, repossession, account closure, lawsuits, physical health detriments, and even higher crime rates. Thus, we will explore the relationships between debt delinquency rate and factors such as parental income group to better understand the root causes and underlying patterns that lead to higher delinquency rates among the United States population. In this study, we examine how debt delinquency rates vary within socioeconomic and demographic characteristics, with particular attention to childhood family income.\nThrough identifying underlying patterns and potential structural dividers of debt delinquency, this study aims to provide insights that may inform policymakers, financial institutions and community organizations. Ultimately, this study hopes that these findings will support the development of more equitable credit practices and interventions that enhance both the financial stability and overall well-being of individuals.\nThis study is a statistics 140XP final project."
+  },
+  {
+    "objectID": "projects/project2.html#poster",
+    "href": "projects/project2.html#poster",
+    "title": "Project 2",
+    "section": "Poster",
+    "text": "Poster\n\n\n\nPoster"
+  },
+  {
+    "objectID": "projects/project2.html#report",
+    "href": "projects/project2.html#report",
+    "title": "Project 2",
+    "section": "Report",
+    "text": "Report\nWorking in progress. (will be uploaded)"
   }
 ]

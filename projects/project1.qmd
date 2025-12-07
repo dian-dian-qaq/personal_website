@@ -1,0 +1,19 @@
+---
+title: "Project 1"
+image: "p1_pic.png"
+site-url: "https://dh101datavoyage.humspace.ucla.edu/"
+subtitle: Travel mobility throughout the COVID-19 pandemic
+description: What explains the variation in travel frequency and distance across California counties during the COVID-19 pandemic, and how is this variation related to political ideology and public response?
+---
+
+## Project Overview
+
+The COVID-19 pandemic dramatically impacted how people moved through the world, especially in response to case surges, government mandates, and public messaging. This project focuses on travel mobility within California, analyzing county-level data to understand how political and psychological influences shaped changes in travel distance and frequency throughout the pandemic. 
+
+By analyzing mobility patterns across California counties during the COVID-19 pandemic, this project sheds light on how people responded to external pressures, such as political messaging, public health mandates, and psychological stress. These insights can help policymakers, public health officials, and researchers better understand and respond to human behavior during future crises.
+
+This project is a website created for Digital Humanities 101.
+
+![Website Image](p1_pic2.png)
+
+[Visit the website→](https://dh101datavoyage.humspace.ucla.edu/){.btn .btn-primary .mt-3}

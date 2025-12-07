@@ -1,0 +1,22 @@
+---
+title: "Project 2"
+image: "p2_pic.jpg"
+subtitle: An Investigation of Debt Delinquency Across the United States 
+description: How do childhood socioeconomic environments impact adult debt delinquency? 
+---
+
+## Project Overview
+Debt delinquency can have drastic effects on the well being of an individual, leading to consequences such as credit score reduction, foreclosure, repossession, account closure, lawsuits, physical health detriments, and even higher crime rates. Thus, we will explore the relationships between debt delinquency rate and factors such as parental income group to better understand the root causes and underlying patterns that lead to higher delinquency rates among the United States population. In this study, we examine how debt delinquency rates vary within socioeconomic and
+demographic characteristics, with particular attention to childhood family income. 
+
+Through identifying underlying patterns and potential structural dividers of debt delinquency, this study aims to provide insights that may inform policymakers, financial institutions and community organizations. Ultimately, this study hopes that these findings will support the development of more equitable credit practices and interventions that enhance both the financial stability and overall well-being of individuals.
+
+This study is a statistics 140XP final project. 
+
+## Poster
+
+![Poster](p2_pic2.png)
+
+## Report
+
+Working in progress. (will be uploaded)

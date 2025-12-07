@@ -1,17 +1,39 @@
 ---
-title: "personal website"
+title: "Diandian Shi"
+about:
+  template: trestles
+  image: pic.jpg
+  links:
+    - icon: LinkedIn
+      text: LinkedIn
+      href: https://quwww.linkedin.com/in/diandian-shi-267956352
+    - icon: github
+      text: Github
+      href: https://github.com/dian-dian-qaq
+    - text: Email
+      url: "mailto:dshi348@g.ucla.edu"
+      icon: inbox-fill
+toc: false
 ---
 
-This is a Quarto website.
+Diandian Shi is currently a fourth-year statistics student at UCLA, passionate about building data-driven solutions at the intersection of analytics, technology, and social sciences. My recent work includes predictive modeling for public health and exploratory analyses of economic mobility. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+DOWNLOAD [CV](/Diandian Shi-resume.pdf)
 
-```{r}
-1 + 3
-```
+## Education
 
-```{r}
-34-13 + 245
-print("omg")
-```
+University of California, Los Angeles | Los Angeles, CA
+
+B.A in Statistics and Data Science | June 2026
+
+Minor in Visual and Performing Arts Education (VAPAE)
+
+## Experience
+
+Lunapse | Product Manager Intern | June 2024 - Jan 2025
+
+Diablo Valley College | Mathematics and Statistics Tutor | June 2023 - June 2024
+
+
+
 
